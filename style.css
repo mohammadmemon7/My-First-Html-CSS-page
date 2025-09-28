@@ -1,3 +1,7 @@
+@font-face {
+    font-family: "nay";
+    src: url(EagleHorizonP.ttf);
+}
 *{
     margin: 0;
     padding: 0;
@@ -24,7 +28,7 @@ html,body{
     color: white;
     font-size: xx-large;
     font-weight: 600;
-    font-family:sans-serif;
+    font-family:nay;
 }
 .skill{
     margin-top:20px;
